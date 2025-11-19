@@ -1,3 +1,6 @@
+// Income routes - placeholder for now
+// TODO: Connect to database and implement actual CRUD operations
+
 const express = require('express');
 const incomeRouter = express.Router();
 

@@ -151,15 +151,15 @@ npm run dev
 
 Frontend runs at: http://localhost:5173/
 
-Backend runs at: http://localhost:3000/
+Backend runs at: http://localhost:3002/
 
 🧪 Testing the API
 
 Use tools like Postman or Thunder Client to hit:
 
-GET http://localhost:3003/incomes
-POST http://localhost:3003/expenses
-PATCH http://localhost:3003/wishes/:wishId/progress
+GET http://localhost:3002/incomes
+POST http://localhost:3002/expenses
+PATCH http://localhost:3002/wishes/:wishId/progress
 
 📸 Screenshots (Optional)
 

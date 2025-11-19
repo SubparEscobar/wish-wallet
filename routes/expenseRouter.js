@@ -1,3 +1,6 @@
+// Expense routes - placeholder for now
+// TODO: Connect to database and implement actual CRUD operations
+
 const express = require('express');
 const expenseRouter = express.Router();
 
